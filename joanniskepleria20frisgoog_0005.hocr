@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria20frisgoog_0005.png"; bbox 0 0 4242 6384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1106 1829 2643 2016">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1106 1829 2643 2016">
+     <span class='ocr_line' id='line_1_1' title="bbox 1106 1829 2643 2016; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1106 1846 1115 1853; x_wconf 76' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1297 1829 1306 1839; x_wconf 50' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1500 1894 2043 2016; x_wconf 46' lang='grc' dir='ltr'><strong>,ΠἈΔΠἩἩΒΧ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2095 1898 2643 2013; x_wconf 76' lang='lat' dir='ltr'>KEPLERI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 991 2623 3219 3048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 991 2623 3219 3048">
+     <span class='ocr_line' id='line_1_2' title="bbox 991 2623 3219 3048; baseline 0.001 -108"><span class='ocrx_word' id='word_1_5' title='bbox 991 2766 1986 3042; x_wconf 71' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2133 2623 3219 3048; x_wconf 64' lang='lat' dir='ltr'><strong>omum·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1640 3437 2568 3542">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1640 3437 2568 3542">
+     <span class='ocr_line' id='line_1_3' title="bbox 1640 3437 2568 3542; baseline 0.003 -32"><span class='ocrx_word' id='word_1_7' title='bbox 1640 3437 2050 3512; x_wconf 60' lang='lat' dir='ltr'>vomam</span> <span class='ocrx_word' id='word_1_8' title='bbox 2104 3438 2501 3528; x_wconf 76' lang='lat' dir='ltr'><strong>Qum‘rtm.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2557 3531 2568 3542; x_wconf 28' lang='lat'>⁸</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2853 3652 3533 4236">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2853 3652 3533 4236">
+     <span class='ocr_line' id='line_1_4' title="bbox 2853 3652 3533 4236; baseline 0 2148"><span class='ocrx_word' id='word_1_10' title='bbox 2853 3652 3533 4236; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria20frisgoog_0125.png"; bbox 0 0 4242 6384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 685 943 3383 5583">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 685 943 3383 5583">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 943 3383 5583; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 685 943 3383 5583; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3107 735 3530 797">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3107 735 3530 797">
+     <span class='ocr_line' id='line_1_2' title="bbox 3107 735 3530 797; baseline -0.017 -2"><span class='ocrx_word' id='word_1_2' title='bbox 3107 737 3247 797; x_wconf 73' lang='lat' dir='ltr'><em>Fol.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3275 735 3396 794; x_wconf 51' lang='lat'><em>1116.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3416 736 3530 790; x_wconf 72' lang='grc'><em>117.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
